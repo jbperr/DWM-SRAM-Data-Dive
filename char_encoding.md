@@ -1,4 +1,4 @@
-|    | 0  | -1 | -2 | -3 | -4 | -5 | -6 | -7 | -8 | -9 | -A | -B | -C | -D | -E | -F |
+|    | -0  | -1 | -2 | -3 | -4 | -5 | -6 | -7 | -8 | -9 | -A | -B | -C | -D | -E | -F |
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
 | 0- | 0  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 0  | 1  | 2  | 3  |    |    |
 | 1- |  ![image info](icons/slime.jpg)  |  ![image info](icons/dragon.jpg)  |  ![image info](icons/beast.jpg)  |  ![image info](icons/bird.jpg)  |  ![image info](icons/tree.jpg)  |  ![image info](icons/bug.jpg)  | ![image info](icons/devil.jpg)   |  ![image info](icons/zombie.jpg)  |  ![image info](icons/material.jpg)  |  ![image info](icons/boss.jpg)  |    |    |    |    |    |    |
