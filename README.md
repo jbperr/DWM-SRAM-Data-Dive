@@ -1,6 +1,6 @@
 # DWM SRAM Data Dive
 
-This repository will store all of the information I can find as to how Dragon Warrior Monsters on the Gameboy Color stores its save data.
+This repository will store all of the information I can find as to how Dragon Warrior Monsters on the Gameboy Color stores its save data. An example sav file is provided and a screenshot of the below information highlighted is also available.
 ## Found
 
 Numbers given are the byte number.
